@@ -4,7 +4,7 @@
 - Encuentro 7 Teoria
 
 # Tema
-- Semáforo y Sincronizacion
+- Semáforo C
 
 # Autores
 - Enmanuel Sanchez Rodriguez 2021-0618
